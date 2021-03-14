@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "614976778925",
+    "project_id": "marketplace-9a9a0",
+    "storage_bucket": "marketplace-9a9a0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:614976778925:android:0f0c47ed1e2802f8dfcc24",
+        "android_client_info": {
+          "package_name": "com.benji"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "614976778925-309a30kq32tv945hqfro3o0h7q7sua58.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPMJqBG45b0_HGLbGUZm2n1apL7_QgxUk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "614976778925-309a30kq32tv945hqfro3o0h7q7sua58.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "614976778925-886olqnh3lse449jbl653nr02b58j228.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "JordieMarketPlace"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
